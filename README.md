@@ -1,4 +1,4 @@
-# very_useful_biotools
+# Find cDNA and mRNA
 
 find_cDNA_mRNA.py user guide:
 1. run the script
